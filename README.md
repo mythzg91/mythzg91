@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mythzg91
-- 👀 I’m interested in Python + GO.
-- 🌱 I’m learning Python + Go Applications (Backend)
-- 📫 How to reach me // Email : garywong8282 at gmail.com
+- 👀 Python + GO.
+- 🌱 I’m learning Microservices Architecture : Python with Go (Backend)
+- Programming is more than a hobby for me; it's a passionate pursuit. I find immense joy in crafting code and creating functional, elegant solutions to various problems.
 
 <!---
 mythzg91/mythzg91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
